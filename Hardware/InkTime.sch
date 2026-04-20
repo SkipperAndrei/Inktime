@@ -4186,7 +4186,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <part name="TP_3.3V" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.ItmuArBxRMmASjs4_UlYvw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
 <part name="TP_GND" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.ItmuArBxRMmASjs4_UlYvw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
 <part name="J2" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.ItmuArBxRMmASjs4_UlYvw" deviceset="TC2030-IDC_TC2030-IDC" device="" value="TC2030-IDC"/>
-<part name="U$1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.ItmuArBxRMmASjs4_UlYvw" deviceset="NORDIC_NRF_4_NRF52840_QF" device="NRF52840" value="NRF52840_QF"/>
+<part name="U1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.ItmuArBxRMmASjs4_UlYvw" deviceset="NORDIC_NRF_4_NRF52840_QF" device="NRF52840" value="NRF52840_QF"/>
 <part name="SUPPLY15" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.ItmuArBxRMmASjs4_UlYvw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="SUPPLY16" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.ItmuArBxRMmASjs4_UlYvw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="C9" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.ItmuArBxRMmASjs4_UlYvw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0201_N" value="820pF"/>
@@ -4252,7 +4252,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <part name="SUPPLY60" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.ItmuArBxRMmASjs4_UlYvw" deviceset="POWER_SYMBOLS_GND-BAR" device="" value="GND"/>
 <part name="TP_OP" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.ItmuArBxRMmASjs4_UlYvw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
 <part name="TP_ON" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.ItmuArBxRMmASjs4_UlYvw" deviceset="HECTOR_WATCH_1_TP" device="TP20R"/>
-<part name="Q1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.ItmuArBxRMmASjs4_UlYvw" deviceset="ESP32_C6_LIBRARY_4_ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH" device="" value="ESP32_C6_LIBRARY_4_ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH"/>
+<part name="Q1" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.ItmuArBxRMmASjs4_UlYvw" deviceset="ESP32_C6_LIBRARY_4_ESP32_WROVER_SPARKFUN-DISCRETESEMI_MOSFET_PCH" device="" value="DMG2305UX-7"/>
 <part name="R_PWR_EPD" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.ItmuArBxRMmASjs4_UlYvw" deviceset="CPF0201D7K68C1_CPF0201D7K68C1" device="" value="10K"/>
 <part name="C43" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.ItmuArBxRMmASjs4_UlYvw" deviceset="NORDIC_NRF_3_CAPACITOR" device="_0402_N" value="4.7uF"/>
 <part name="C42" library="InkTime_v5" library_urn="urn:adsk.wipprod:fs.file:vf.ItmuArBxRMmASjs4_UlYvw" deviceset="GRM011R60J152KE01L_2_GRM011R60J152KE01L" device="CAPCO201XWHATEVER" value="0.1uF"/>
@@ -4492,7 +4492,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <attribute name="NAME" x="333.23" y="75.2" size="1.778" layer="95" align="center-left"/>
 <attribute name="VALUE" x="333.23" y="72.66" size="1.778" layer="96" align="center-left"/>
 </instance>
-<instance part="U$1" gate="G$1" x="200.62" y="95.18" smashed="yes">
+<instance part="U1" gate="G$1" x="200.62" y="95.18" smashed="yes">
 <attribute name="NAME" x="261.58" y="92.64" size="1.778" layer="95"/>
 <attribute name="VALUE" x="261.58" y="90.1" size="1.778" layer="96"/>
 </instance>
@@ -4662,7 +4662,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <segment>
 <wire x1="195.54" y1="120.58" x2="189.22" y2="120.58" width="0.1524" layer="91"/>
 <label x="189.02" y="120.58" size="1.15" layer="95" rot="MR0" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.11@T2"/>
+<pinref part="U1" gate="G$1" pin="P0.11@T2"/>
 </segment>
 </net>
 <net name="GND" class="0">
@@ -4776,7 +4776,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <wire x1="274.28" y1="97.72" x2="281.42" y2="97.72" width="0.1524" layer="91"/>
 <wire x1="281.42" y1="97.72" x2="281.42" y2="90.22" width="0.1524" layer="91"/>
 <pinref part="SUPPLY15" gate="G$1" pin="GND"/>
-<pinref part="U$1" gate="G$1" pin="VSS_PAD"/>
+<pinref part="U1" gate="G$1" pin="VSS_PAD"/>
 </segment>
 <segment>
 <wire x1="306.82" y1="96" x2="306.82" y2="89.92" width="0.1524" layer="91"/>
@@ -4797,7 +4797,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <wire x1="313.22" y1="128.22" x2="313.32" y2="128.22" width="0.1524" layer="91"/>
 <junction x="313.32" y="128.22"/>
 <pinref part="C3" gate="C$1" pin="2"/>
-<pinref part="U$1" gate="G$1" pin="VSS_PA@F23"/>
+<pinref part="U1" gate="G$1" pin="VSS_PA@F23"/>
 </segment>
 <segment>
 <wire x1="343.12" y1="132" x2="343.12" y2="128.22" width="0.1524" layer="91"/>
@@ -4861,7 +4861,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <junction x="225.22" y="195.28"/>
 <pinref part="C15" gate="C$1" pin="2"/>
 <pinref part="C16" gate="C$1" pin="2"/>
-<pinref part="U$1" gate="G$1" pin="VSS@B7"/>
+<pinref part="U1" gate="G$1" pin="VSS@B7"/>
 </segment>
 <segment>
 <wire x1="183.42" y1="185.5" x2="183.42" y2="181.22" width="0.1524" layer="91"/>
@@ -5013,7 +5013,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <segment>
 <wire x1="195.54" y1="125.66" x2="189.42" y2="125.66" width="0.1524" layer="91"/>
 <label x="189.32" y="125.68" size="1.15" layer="95" rot="MR0" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P1.08@P2"/>
+<pinref part="U1" gate="G$1" pin="P1.08@P2"/>
 </segment>
 </net>
 <net name="IMU_INT1" class="0">
@@ -5025,7 +5025,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <segment>
 <wire x1="195.54" y1="128.2" x2="188.72" y2="128.2" width="0.1524" layer="91"/>
 <label x="188.62" y="128.18" size="1.15" layer="95" rot="MR0" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.08@N1"/>
+<pinref part="U1" gate="G$1" pin="P0.08@N1"/>
 </segment>
 </net>
 <net name="N$8" class="0">
@@ -5045,7 +5045,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <segment>
 <wire x1="256.5" y1="90.1" x2="256.5" y2="85.08" width="0.1524" layer="91"/>
 <label x="256.52" y="84.98" size="1.15" layer="95" rot="R270" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P1.00@AD22"/>
+<pinref part="U1" gate="G$1" pin="P1.00@AD22"/>
 </segment>
 </net>
 <net name="SWDIO" class="0">
@@ -5062,7 +5062,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <segment>
 <wire x1="274.28" y1="112.96" x2="278.32" y2="112.96" width="0.1524" layer="91"/>
 <label x="278.42" y="112.98" size="1.15" layer="95" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="SWDIO@AC24"/>
+<pinref part="U1" gate="G$1" pin="SWDIO@AC24"/>
 </segment>
 </net>
 <net name="SWDCLK" class="0">
@@ -5079,7 +5079,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <segment>
 <wire x1="274.28" y1="110.42" x2="278.32" y2="110.42" width="0.1524" layer="91"/>
 <label x="278.42" y="110.48" size="1.15" layer="95" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="SWDCLK@AA24"/>
+<pinref part="U1" gate="G$1" pin="SWDCLK@AA24"/>
 </segment>
 </net>
 <net name="RESET" class="0">
@@ -5096,7 +5096,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <segment>
 <wire x1="233.64" y1="90.1" x2="233.64" y2="85.28" width="0.1524" layer="91"/>
 <label x="233.62" y="85.18" size="1.15" layer="95" rot="R270" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.18/RESET@AC13"/>
+<pinref part="U1" gate="G$1" pin="P0.18/RESET@AC13"/>
 </segment>
 </net>
 <net name="N$9" class="0">
@@ -5104,14 +5104,14 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <wire x1="274.28" y1="133.28" x2="297.42" y2="133.28" width="0.1524" layer="91"/>
 <wire x1="297.42" y1="133.28" x2="297.42" y2="131.62" width="0.1524" layer="91"/>
 <pinref part="C9" gate="C$1" pin="1"/>
-<pinref part="U$1" gate="G$1" pin="DEC5@N24"/>
+<pinref part="U1" gate="G$1" pin="DEC5@N24"/>
 </segment>
 </net>
 <net name="P1.07" class="0">
 <segment>
 <wire x1="274.28" y1="130.74" x2="278.42" y2="130.74" width="0.1524" layer="91"/>
 <label x="278.52" y="130.78" size="1.15" layer="95" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P1.07@P23"/>
+<pinref part="U1" gate="G$1" pin="P1.07@P23"/>
 </segment>
 </net>
 <net name="P1.06" class="0">
@@ -5119,56 +5119,56 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <wire x1="274.28" y1="128.2" x2="278.32" y2="128.2" width="0.1524" layer="91"/>
 <wire x1="278.32" y1="128.2" x2="278.32" y2="128.18" width="0.1524" layer="91"/>
 <label x="278.42" y="128.18" size="1.15" layer="95" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P1.06@R24"/>
+<pinref part="U1" gate="G$1" pin="P1.06@R24"/>
 </segment>
 </net>
 <net name="P1.05" class="0">
 <segment>
 <wire x1="274.28" y1="125.66" x2="278.12" y2="125.66" width="0.1524" layer="91"/>
 <label x="278.32" y="125.58" size="1.15" layer="95" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P1.05@T23"/>
+<pinref part="U1" gate="G$1" pin="P1.05@T23"/>
 </segment>
 </net>
 <net name="P1.04" class="0">
 <segment>
 <wire x1="274.28" y1="123.12" x2="277.92" y2="123.12" width="0.1524" layer="91"/>
 <label x="278.12" y="123.08" size="1.15" layer="95" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P1.04@U24"/>
+<pinref part="U1" gate="G$1" pin="P1.04@U24"/>
 </segment>
 </net>
 <net name="P1.03" class="0">
 <segment>
 <wire x1="274.28" y1="120.58" x2="278.02" y2="120.58" width="0.1524" layer="91"/>
 <label x="278.22" y="120.58" size="1.15" layer="95" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P1.03@V23"/>
+<pinref part="U1" gate="G$1" pin="P1.03@V23"/>
 </segment>
 </net>
 <net name="P1.02" class="0">
 <segment>
 <wire x1="274.28" y1="118.04" x2="278.22" y2="118.04" width="0.1524" layer="91"/>
 <label x="278.32" y="118.08" size="1.15" layer="95" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P1.02@W24"/>
+<pinref part="U1" gate="G$1" pin="P1.02@W24"/>
 </segment>
 </net>
 <net name="P1.01" class="0">
 <segment>
 <wire x1="274.28" y1="115.5" x2="278.32" y2="115.5" width="0.1524" layer="91"/>
 <label x="278.42" y="115.48" size="1.15" layer="95" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P1.01@Y23"/>
+<pinref part="U1" gate="G$1" pin="P1.01@Y23"/>
 </segment>
 </net>
 <net name="P0.09" class="0">
 <segment>
 <wire x1="274.28" y1="135.82" x2="278.22" y2="135.82" width="0.1524" layer="91"/>
 <label x="278.32" y="135.78" size="1.15" layer="95" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.09/NFC1@L24"/>
+<pinref part="U1" gate="G$1" pin="P0.09/NFC1@L24"/>
 </segment>
 </net>
 <net name="ALERT" class="0">
 <segment>
 <wire x1="274.28" y1="138.36" x2="278.32" y2="138.36" width="0.1524" layer="91"/>
 <label x="278.42" y="138.38" size="1.15" layer="95" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.10/NFC2@J24"/>
+<pinref part="U1" gate="G$1" pin="P0.10/NFC2@J24"/>
 </segment>
 </net>
 <net name="N$10" class="0">
@@ -5180,7 +5180,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <junction x="313.22" y="140.88"/>
 <pinref part="C3" gate="C$1" pin="1"/>
 <pinref part="L1" gate="L$1" pin="1"/>
-<pinref part="U$1" gate="G$1" pin="ANT@H23"/>
+<pinref part="U1" gate="G$1" pin="ANT@H23"/>
 </segment>
 </net>
 <net name="RF" class="0">
@@ -5223,8 +5223,8 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <pinref part="C10" gate="C$1" pin="1"/>
 <pinref part="C16" gate="C$1" pin="1"/>
 <pinref part="L3" gate="L$1" pin="1"/>
-<pinref part="U$1" gate="G$1" pin="DEC6@E24"/>
-<pinref part="U$1" gate="G$1" pin="DEC4@B5"/>
+<pinref part="U1" gate="G$1" pin="DEC6@E24"/>
+<pinref part="U1" gate="G$1" pin="DEC4@B5"/>
 </segment>
 </net>
 <net name="N$11" class="0">
@@ -5234,7 +5234,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <wire x1="288.92" y1="177.08" x2="284.02" y2="177.08" width="0.1524" layer="91"/>
 <wire x1="284.02" y1="177.08" x2="284.02" y2="174.32" width="0.1524" layer="91"/>
 <pinref part="C11" gate="C$1" pin="1"/>
-<pinref part="U$1" gate="G$1" pin="DEC3@D23"/>
+<pinref part="U1" gate="G$1" pin="DEC3@D23"/>
 </segment>
 </net>
 <net name="N$13" class="0">
@@ -5247,7 +5247,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <wire x1="321.02" y1="167.68" x2="321.08" y2="167.68" width="0.1524" layer="91"/>
 <wire x1="321.08" y1="167.68" x2="321.08" y2="164.6" width="0.1524" layer="91"/>
 <pinref part="C2" gate="C$1" pin="1"/>
-<pinref part="U$1" gate="G$1" pin="XC2@A23"/>
+<pinref part="U1" gate="G$1" pin="XC2@A23"/>
 <pinref part="X1" gate="X$1" pin="3"/>
 </segment>
 </net>
@@ -5259,7 +5259,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <wire x1="274.28" y1="151.08" x2="274.28" y2="151.06" width="0.1524" layer="91"/>
 <junction x="321.08" y="151.08"/>
 <pinref part="C1" gate="C$1" pin="1"/>
-<pinref part="U$1" gate="G$1" pin="XC1@B24"/>
+<pinref part="U1" gate="G$1" pin="XC1@B24"/>
 <pinref part="X1" gate="X$1" pin="1"/>
 </segment>
 </net>
@@ -5267,14 +5267,14 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <segment>
 <wire x1="253.96" y1="168.84" x2="253.96" y2="175.08" width="0.1524" layer="91"/>
 <label x="253.92" y="175.08" size="1.15" layer="95" rot="R90" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P1.10@A20"/>
+<pinref part="U1" gate="G$1" pin="P1.10@A20"/>
 </segment>
 </net>
 <net name="P1.11" class="0">
 <segment>
 <wire x1="251.42" y1="168.84" x2="251.42" y2="175.08" width="0.1524" layer="91"/>
 <label x="251.42" y="175.18" size="1.15" layer="95" rot="R90" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P1.11@B19"/>
+<pinref part="U1" gate="G$1" pin="P1.11@B19"/>
 </segment>
 </net>
 <net name="N$15" class="0">
@@ -5283,77 +5283,77 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <wire x1="248.88" y1="209.18" x2="263.92" y2="209.18" width="0.1524" layer="91"/>
 <wire x1="263.92" y1="209.18" x2="263.92" y2="205.02" width="0.1524" layer="91"/>
 <pinref part="C13" gate="C$1" pin="1"/>
-<pinref part="U$1" gate="G$1" pin="DEC2@A18"/>
+<pinref part="U1" gate="G$1" pin="DEC2@A18"/>
 </segment>
 </net>
 <net name="P0.31" class="0">
 <segment>
 <wire x1="223.48" y1="168.84" x2="223.48" y2="174.48" width="0.1524" layer="91"/>
 <label x="223.52" y="174.58" size="1.15" layer="95" rot="R90" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.31/AIN7@A8"/>
+<pinref part="U1" gate="G$1" pin="P0.31/AIN7@A8"/>
 </segment>
 </net>
 <net name="P0.30" class="0">
 <segment>
 <wire x1="226.02" y1="168.84" x2="226.02" y2="174.48" width="0.1524" layer="91"/>
 <label x="226.02" y="174.58" size="1.15" layer="95" rot="R90" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.30/AIN6@B9"/>
+<pinref part="U1" gate="G$1" pin="P0.30/AIN6@B9"/>
 </segment>
 </net>
 <net name="P0.29" class="0">
 <segment>
 <wire x1="228.56" y1="168.84" x2="228.56" y2="174.48" width="0.1524" layer="91"/>
 <label x="228.62" y="174.58" size="1.15" layer="95" rot="R90" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.29/AIN5@A10"/>
+<pinref part="U1" gate="G$1" pin="P0.29/AIN5@A10"/>
 </segment>
 </net>
 <net name="P0.28" class="0">
 <segment>
 <wire x1="231.1" y1="168.84" x2="231.1" y2="174.38" width="0.1524" layer="91"/>
 <label x="231.12" y="174.38" size="1.15" layer="95" rot="R90" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.28/AIN4@B11"/>
+<pinref part="U1" gate="G$1" pin="P0.28/AIN4@B11"/>
 </segment>
 </net>
 <net name="SCK" class="0">
 <segment>
 <wire x1="233.64" y1="168.84" x2="233.64" y2="174.48" width="0.1524" layer="91"/>
 <label x="233.62" y="174.58" size="1.15" layer="95" rot="R90" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.02/AIN0@A12"/>
+<pinref part="U1" gate="G$1" pin="P0.02/AIN0@A12"/>
 </segment>
 </net>
 <net name="MOSI" class="0">
 <segment>
 <wire x1="236.18" y1="168.84" x2="236.18" y2="174.48" width="0.1524" layer="91"/>
 <label x="236.12" y="174.58" size="1.15" layer="95" rot="R90" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.03/AIN1@B13"/>
+<pinref part="U1" gate="G$1" pin="P0.03/AIN1@B13"/>
 </segment>
 </net>
 <net name="P1.15" class="0">
 <segment>
 <wire x1="238.72" y1="168.84" x2="238.72" y2="174.48" width="0.1524" layer="91"/>
 <label x="238.72" y="174.58" size="1.15" layer="95" rot="R90" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P1.15@A14"/>
+<pinref part="U1" gate="G$1" pin="P1.15@A14"/>
 </segment>
 </net>
 <net name="P1.14" class="0">
 <segment>
 <wire x1="241.26" y1="168.84" x2="241.26" y2="174.58" width="0.1524" layer="91"/>
 <label x="241.22" y="174.58" size="1.15" layer="95" rot="R90" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P1.14@B15"/>
+<pinref part="U1" gate="G$1" pin="P1.14@B15"/>
 </segment>
 </net>
 <net name="P1.13" class="0">
 <segment>
 <wire x1="243.8" y1="168.84" x2="243.8" y2="174.68" width="0.1524" layer="91"/>
 <label x="243.82" y="174.78" size="1.15" layer="95" rot="R90" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P1.13@A16"/>
+<pinref part="U1" gate="G$1" pin="P1.13@A16"/>
 </segment>
 </net>
 <net name="P1.12" class="0">
 <segment>
 <wire x1="246.34" y1="168.84" x2="246.34" y2="174.58" width="0.1524" layer="91"/>
 <label x="246.32" y="174.58" size="1.15" layer="95" rot="R90" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P1.12@B17"/>
+<pinref part="U1" gate="G$1" pin="P1.12@B17"/>
 </segment>
 </net>
 <net name="N$18" class="0">
@@ -5363,7 +5363,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <wire x1="176.22" y1="196.18" x2="167.02" y2="196.18" width="0.1524" layer="91"/>
 <wire x1="167.02" y1="196.18" x2="167.02" y2="193.02" width="0.1524" layer="91"/>
 <pinref part="C5" gate="C$1" pin="1"/>
-<pinref part="U$1" gate="G$1" pin="DEC1@C1"/>
+<pinref part="U1" gate="G$1" pin="DEC1@C1"/>
 </segment>
 </net>
 <net name="N$19" class="0">
@@ -5375,7 +5375,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <wire x1="148.42" y1="174.62" x2="148.42" y2="178.18" width="0.1524" layer="91"/>
 <junction x="148.42" y="178.18"/>
 <pinref part="C17" gate="C$1" pin="2"/>
-<pinref part="U$1" gate="G$1" pin="P0.00/XL1@D2"/>
+<pinref part="U1" gate="G$1" pin="P0.00/XL1@D2"/>
 <pinref part="X2" gate="X$1" pin="1"/>
 </segment>
 </net>
@@ -5388,7 +5388,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <wire x1="148.42" y1="167" x2="148.42" y2="162.38" width="0.1524" layer="91"/>
 <junction x="148.42" y="162.38"/>
 <pinref part="C18" gate="C$1" pin="1"/>
-<pinref part="U$1" gate="G$1" pin="P0.01/XL2@F2"/>
+<pinref part="U1" gate="G$1" pin="P0.01/XL2@F2"/>
 <pinref part="X2" gate="X$1" pin="2"/>
 </segment>
 </net>
@@ -5396,28 +5396,28 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <segment>
 <wire x1="195.54" y1="143.44" x2="188.92" y2="143.44" width="0.1524" layer="91"/>
 <label x="188.72" y="143.48" size="1.15" layer="95" rot="MR0" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.26@G1"/>
+<pinref part="U1" gate="G$1" pin="P0.26@G1"/>
 </segment>
 </net>
 <net name="P0.27" class="0">
 <segment>
 <wire x1="195.54" y1="140.9" x2="188.72" y2="140.9" width="0.1524" layer="91"/>
 <label x="188.62" y="140.88" size="1.15" layer="95" rot="MR0" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.27@H2"/>
+<pinref part="U1" gate="G$1" pin="P0.27@H2"/>
 </segment>
 </net>
 <net name="P0.04" class="0">
 <segment>
 <wire x1="195.54" y1="138.36" x2="188.42" y2="138.36" width="0.1524" layer="91"/>
 <label x="188.32" y="138.28" size="1.15" layer="95" rot="MR0" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.04/AIN2@J1"/>
+<pinref part="U1" gate="G$1" pin="P0.04/AIN2@J1"/>
 </segment>
 </net>
 <net name="EPD_CS" class="0">
 <segment>
 <wire x1="195.54" y1="135.82" x2="188.92" y2="135.82" width="0.1524" layer="91"/>
 <label x="188.82" y="135.78" size="1.15" layer="95" rot="MR0" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.05/AIN3@K2"/>
+<pinref part="U1" gate="G$1" pin="P0.05/AIN3@K2"/>
 </segment>
 </net>
 <net name="N$16" class="0">
@@ -5433,7 +5433,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <wire x1="207.12" y1="172.78" x2="215.86" y2="172.78" width="0.1524" layer="91"/>
 <wire x1="215.86" y1="172.78" x2="215.86" y2="168.84" width="0.1524" layer="91"/>
 <pinref part="L2" gate="L$1" pin="2"/>
-<pinref part="U$1" gate="G$1" pin="DCC@B3"/>
+<pinref part="U1" gate="G$1" pin="DCC@B3"/>
 </segment>
 </net>
 <net name="N$28" class="0">
@@ -5445,14 +5445,14 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <segment>
 <wire x1="195.54" y1="118.04" x2="189.12" y2="118.04" width="0.1524" layer="91"/>
 <label x="189.02" y="117.98" size="1.15" layer="95" rot="MR0" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.12@U1"/>
+<pinref part="U1" gate="G$1" pin="P0.12@U1"/>
 </segment>
 </net>
 <net name="P1.09" class="0">
 <segment>
 <wire x1="195.54" y1="123.12" x2="189.22" y2="123.12" width="0.1524" layer="91"/>
 <label x="189.12" y="123.08" size="1.15" layer="95" rot="MR0" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P1.09@R1"/>
+<pinref part="U1" gate="G$1" pin="P1.09@R1"/>
 </segment>
 </net>
 <net name="N$21" class="0">
@@ -5460,7 +5460,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <wire x1="195.54" y1="107.88" x2="186.12" y2="107.88" width="0.1524" layer="91"/>
 <wire x1="186.12" y1="107.88" x2="186.12" y2="104.42" width="0.1524" layer="91"/>
 <pinref part="C20" gate="C$1" pin="1"/>
-<pinref part="U$1" gate="G$1" pin="DEC3V3@AC5"/>
+<pinref part="U1" gate="G$1" pin="DEC3V3@AC5"/>
 </segment>
 </net>
 <net name="D-" class="0">
@@ -5469,98 +5469,98 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <wire x1="215.86" y1="85.58" x2="215.82" y2="85.58" width="0.1524" layer="91"/>
 <wire x1="215.82" y1="85.58" x2="215.82" y2="90.1" width="0.1524" layer="91"/>
 <label x="215.92" y="85.58" size="1.15" layer="95" rot="R270" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="D-@AD4"/>
+<pinref part="U1" gate="G$1" pin="D-@AD4"/>
 </segment>
 </net>
 <net name="D+" class="0">
 <segment>
 <wire x1="218.4" y1="90.1" x2="218.4" y2="85.48" width="0.1524" layer="91"/>
 <label x="218.42" y="85.38" size="1.15" layer="95" rot="R270" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="D+@AD6"/>
+<pinref part="U1" gate="G$1" pin="D+@AD6"/>
 </segment>
 </net>
 <net name="P0.13" class="0">
 <segment>
 <wire x1="220.94" y1="90.1" x2="220.94" y2="85.48" width="0.1524" layer="91"/>
 <label x="220.92" y="85.38" size="1.15" layer="95" rot="R270" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.13@AD8"/>
+<pinref part="U1" gate="G$1" pin="P0.13@AD8"/>
 </segment>
 </net>
 <net name="P0.14" class="0">
 <segment>
 <wire x1="223.48" y1="90.1" x2="223.48" y2="85.48" width="0.1524" layer="91"/>
 <label x="223.52" y="85.48" size="1.15" layer="95" rot="R270" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.14@AC9"/>
+<pinref part="U1" gate="G$1" pin="P0.14@AC9"/>
 </segment>
 </net>
 <net name="EPD_DC" class="0">
 <segment>
 <wire x1="226.02" y1="90.1" x2="226.02" y2="85.38" width="0.1524" layer="91"/>
 <label x="226.02" y="85.38" size="1.15" layer="95" rot="R270" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.15@AD10"/>
+<pinref part="U1" gate="G$1" pin="P0.15@AD10"/>
 </segment>
 </net>
 <net name="EPD_RST" class="0">
 <segment>
 <wire x1="228.56" y1="90.1" x2="228.56" y2="85.38" width="0.1524" layer="91"/>
 <label x="228.52" y="85.28" size="1.15" layer="95" rot="R270" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.16@AC11"/>
+<pinref part="U1" gate="G$1" pin="P0.16@AC11"/>
 </segment>
 </net>
 <net name="EPD_BUSY" class="0">
 <segment>
 <wire x1="231.1" y1="90.1" x2="231.1" y2="85.38" width="0.1524" layer="91"/>
 <label x="231.12" y="85.28" size="1.15" layer="95" rot="R270" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.17@AD12"/>
+<pinref part="U1" gate="G$1" pin="P0.17@AD12"/>
 </segment>
 </net>
 <net name="P0.19" class="0">
 <segment>
 <wire x1="238.72" y1="90.1" x2="238.72" y2="84.98" width="0.1524" layer="91"/>
 <label x="238.72" y="84.88" size="1.15" layer="95" rot="R270" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.19@AC15"/>
+<pinref part="U1" gate="G$1" pin="P0.19@AC15"/>
 </segment>
 </net>
 <net name="P0.20" class="0">
 <segment>
 <wire x1="241.26" y1="90.1" x2="241.26" y2="85.08" width="0.1524" layer="91"/>
 <label x="241.22" y="84.98" size="1.15" layer="95" rot="R270" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.20@AD16"/>
+<pinref part="U1" gate="G$1" pin="P0.20@AD16"/>
 </segment>
 </net>
 <net name="P0.21" class="0">
 <segment>
 <wire x1="243.8" y1="90.1" x2="243.8" y2="85.08" width="0.1524" layer="91"/>
 <label x="243.82" y="84.98" size="1.15" layer="95" rot="R270" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.21@AC17"/>
+<pinref part="U1" gate="G$1" pin="P0.21@AC17"/>
 </segment>
 </net>
 <net name="P0.22" class="0">
 <segment>
 <wire x1="246.34" y1="90.1" x2="246.34" y2="85.08" width="0.1524" layer="91"/>
 <label x="246.32" y="84.98" size="1.15" layer="95" rot="R270" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.22@AD18"/>
+<pinref part="U1" gate="G$1" pin="P0.22@AD18"/>
 </segment>
 </net>
 <net name="P0.23" class="0">
 <segment>
 <wire x1="248.88" y1="90.1" x2="248.88" y2="85.08" width="0.1524" layer="91"/>
 <label x="248.82" y="84.98" size="1.15" layer="95" rot="R270" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.23@AC19"/>
+<pinref part="U1" gate="G$1" pin="P0.23@AC19"/>
 </segment>
 </net>
 <net name="P0.24" class="0">
 <segment>
 <wire x1="251.42" y1="90.1" x2="251.42" y2="84.98" width="0.1524" layer="91"/>
 <label x="251.42" y="84.88" size="1.15" layer="95" rot="R270" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.24@AD20"/>
+<pinref part="U1" gate="G$1" pin="P0.24@AD20"/>
 </segment>
 </net>
 <net name="P0.25" class="0">
 <segment>
 <wire x1="253.96" y1="90.1" x2="253.96" y2="85.08" width="0.1524" layer="91"/>
 <label x="254.02" y="85.08" size="1.15" layer="95" rot="R270" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.25@AC21"/>
+<pinref part="U1" gate="G$1" pin="P0.25@AC21"/>
 </segment>
 </net>
 <net name="3V3" class="0">
@@ -5572,7 +5572,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <wire x1="224.02" y1="66.48" x2="224.02" y2="63.32" width="0.1524" layer="91"/>
 <label x="219.02" y="66.38" size="1.15" layer="95" rot="MR0" xref="yes"/>
 <pinref part="C7" gate="C$1" pin="1"/>
-<pinref part="U$1" gate="G$1" pin="VDD@AD14"/>
+<pinref part="U1" gate="G$1" pin="VDD@AD14"/>
 </segment>
 <segment>
 <wire x1="256.5" y1="168.84" x2="256.5" y2="185.58" width="0.1524" layer="91"/>
@@ -5582,7 +5582,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <wire x1="264.42" y1="185.58" x2="264.42" y2="182.12" width="0.1524" layer="91"/>
 <junction x="264.42" y="185.58"/>
 <pinref part="C12" gate="C$1" pin="1"/>
-<pinref part="U$1" gate="G$1" pin="VDD@A22"/>
+<pinref part="U1" gate="G$1" pin="VDD@A22"/>
 </segment>
 <segment>
 <wire x1="213.32" y1="168.84" x2="213.32" y2="171.68" width="0.1524" layer="91"/>
@@ -5594,7 +5594,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <wire x1="183.42" y1="196.28" x2="183.42" y2="193.12" width="0.1524" layer="91"/>
 <junction x="183.42" y="196.28"/>
 <pinref part="C14" gate="C$1" pin="1"/>
-<pinref part="U$1" gate="G$1" pin="VDD@B1"/>
+<pinref part="U1" gate="G$1" pin="VDD@B1"/>
 </segment>
 <segment>
 <pinref part="TP_3V3" gate="G$1" pin="TP"/>
@@ -5666,8 +5666,8 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <junction x="168.72" y="115.38"/>
 <label x="162.02" y="115.48" size="1.15" layer="95" rot="MR0" xref="yes"/>
 <pinref part="C6" gate="C$1" pin="1"/>
-<pinref part="U$1" gate="G$1" pin="VDD@W1"/>
-<pinref part="U$1" gate="G$1" pin="VDDH@Y2"/>
+<pinref part="U1" gate="G$1" pin="VDD@W1"/>
+<pinref part="U1" gate="G$1" pin="VDDH@Y2"/>
 </segment>
 <segment>
 <pinref part="J2" gate="G$1" pin="1"/>
@@ -5681,7 +5681,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <junction x="306.82" y="107.88"/>
 <label x="317.52" y="107.98" size="1.35" layer="95" xref="yes"/>
 <pinref part="C8" gate="C$1" pin="1"/>
-<pinref part="U$1" gate="G$1" pin="VDD@AD23"/>
+<pinref part="U1" gate="G$1" pin="VDD@AD23"/>
 </segment>
 </net>
 <net name="VBUS" class="0">
@@ -5693,7 +5693,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <wire x1="203.72" y1="83.98" x2="203.72" y2="81.42" width="0.1524" layer="91"/>
 <label x="197.02" y="83.98" size="1.15" layer="95" rot="MR0" xref="yes"/>
 <pinref part="C21" gate="C$1" pin="1"/>
-<pinref part="U$1" gate="G$1" pin="VBUS@AD2"/>
+<pinref part="U1" gate="G$1" pin="VBUS@AD2"/>
 </segment>
 <segment>
 <wire x1="42.44" y1="225.78" x2="20.02" y2="225.78" width="0.1524" layer="91"/>
@@ -5710,7 +5710,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <segment>
 <wire x1="195.54" y1="133.28" x2="188.72" y2="133.28" width="0.1524" layer="91"/>
 <label x="188.62" y="133.28" size="1.15" layer="95" rot="MR0" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.06@L1"/>
+<pinref part="U1" gate="G$1" pin="P0.06@L1"/>
 </segment>
 <segment>
 <wire x1="101.82" y1="135.58" x2="103.42" y2="135.58" width="0.1524" layer="91"/>
@@ -5743,7 +5743,7 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/503480-2400.p
 <segment>
 <wire x1="195.54" y1="130.74" x2="188.62" y2="130.74" width="0.1524" layer="91"/>
 <label x="188.62" y="130.68" size="1.15" layer="95" rot="MR0" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="P0.07@M2"/>
+<pinref part="U1" gate="G$1" pin="P0.07@M2"/>
 </segment>
 <segment>
 <wire x1="101.82" y1="143.18" x2="111.42" y2="143.18" width="0.1524" layer="91"/>
