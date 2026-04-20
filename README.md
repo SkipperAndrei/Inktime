@@ -337,8 +337,6 @@ Board-ul este self-powered (baterie sau USB); TC2030 nu trebuie să furnizeze cu
 | E-paper refresh (parțial, 1/min, pulsed) | ~150–300 µA mediat pe minut |
 | **Total estimat mediu** | **~180–340 µA** |
 
-> Cu o baterie LiPo de **300 mAh**, autonomia estimată este de **37–69 zile** în profil tipic. Valorile finale se validează prin măsurători pe Rev A (conform Power Budget Checklist din DD).
-
 ---
 
 ## 7. Arhitectura firmware
