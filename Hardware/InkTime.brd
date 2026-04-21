@@ -3110,9 +3110,9 @@ XTAL SMD 3.2 x 1.5 mm</description>
 <wire x1="-2.9" y1="-0.7" x2="-5.7" y2="2.1" width="0.15" layer="16"/>
 <wire x1="-5.7" y1="2.1" x2="-5.7" y2="5.4" width="0.15" layer="16"/>
 <wire x1="-5.7" y1="5.4" x2="-7.5" y2="7.2" width="0.15" layer="16"/>
-<wire x1="-7.5" y1="7.2" x2="-13.3" y2="7.2" width="0.15" layer="16"/>
-<wire x1="-13.3" y1="7.2" x2="-16.9" y2="10.8" width="0.15" layer="16"/>
-<wire x1="-16.9" y1="10.8" x2="-18.5" y2="10.8" width="0.15" layer="16"/>
+<wire x1="-7.5" y1="7.2" x2="-13.4" y2="7.2" width="0.15" layer="16"/>
+<wire x1="-13.4" y1="7.2" x2="-17" y2="10.8" width="0.15" layer="16"/>
+<wire x1="-17" y1="10.8" x2="-18.5" y2="10.8" width="0.15" layer="16"/>
 <wire x1="-18.5" y1="10.8" x2="-18.6" y2="10.9" width="0.15" layer="16"/>
 <via x="-18.6" y="10.9" extent="1-16" drill="0.2" alwaysstop="yes">
 </via>
@@ -5461,6 +5461,62 @@ XTAL SMD 3.2 x 1.5 mm</description>
 <approved hash="19,1,277500d9a0893482"/>
 <approved hash="19,1,64e18b4aeb622769"/>
 <approved hash="19,1,0eab3507a55f7d54"/>
+<approved hash="4,1,b31e1c5e67760d27"/>
+<approved hash="4,1,45ab65af64bcb100"/>
+<approved hash="4,1,0dd85b4be72f806c"/>
+<approved hash="4,1,9a0e7a832379bf17"/>
+<approved hash="4,1,11a85fc072f99c90"/>
+<approved hash="4,1,5e57103a9d03736f"/>
+<approved hash="4,304,11a85fc072f99c90"/>
+<approved hash="4,304,5e57103a9d03736f"/>
+<approved hash="5,1,aaf95ad360e010d6"/>
+<approved hash="5,1,c5623c9b034a0186"/>
+<approved hash="5,1,53e9500c81b8dcce"/>
+<approved hash="5,1,22dd6c64254292c0"/>
+<approved hash="5,1,53a588522cb0b07f"/>
+<approved hash="5,1,199847a026444d87"/>
+<approved hash="5,1,199847a026444d87"/>
+<approved hash="5,1,03be7c96c036b4e7"/>
+<approved hash="5,1,6ed1c2731334c1ee"/>
+<approved hash="5,1,359e248505804b6a"/>
+<approved hash="5,1,ca61e15c3dfe54f2"/>
+<approved hash="5,1,359e248505804b6a"/>
+<approved hash="5,1,ca61e15c3dfe54f2"/>
+<approved hash="5,1,0efdfcdf0edf00e1"/>
+<approved hash="5,1,d636216cd6c201e2"/>
+<approved hash="5,1,dc1c15d5377e960b"/>
+<approved hash="5,1,dc1c15d5377e960b"/>
+<approved hash="5,1,22dd6c64254292c0"/>
+<approved hash="5,1,03be7c96c036b4e7"/>
+<approved hash="5,1,0efdfcdf0edf00e1"/>
+<approved hash="5,1,9e461b3cd2b729bc"/>
+<approved hash="5,1,756d80206188b2a7"/>
+<approved hash="5,1,a22bc4d440d0196f"/>
+<approved hash="5,1,bee1eefb475d7f5b"/>
+<approved hash="5,1,c837ebcffe1038fd"/>
+<approved hash="5,1,98c9859eaf0d4c63"/>
+<approved hash="5,1,e0e8fe84277925a5"/>
+<approved hash="5,1,b7f12819fedc998c"/>
+<approved hash="5,1,a415fd5ae386a679"/>
+<approved hash="5,1,d3d2d18aeb438047"/>
+<approved hash="5,1,a0e160fb795c795a"/>
+<approved hash="5,1,a0e160fb795c795a"/>
+<approved hash="5,1,e8c558c07965797f"/>
+<approved hash="5,1,13af455cecc59c31"/>
+<approved hash="5,1,5ae3eae5795c7945"/>
+<approved hash="5,1,5ae3eae5795c7945"/>
+<approved hash="5,1,feeee0825f775da3"/>
+<approved hash="5,1,faf8e484a279a055"/>
+<approved hash="5,1,bee1eefb475d7f5b"/>
+<approved hash="5,1,6213c55cdb88607f"/>
+<approved hash="5,1,6213c55cdb88607f"/>
+<approved hash="5,1,13d6d18e2d4d4645"/>
+<approved hash="5,1,e2fefc8da278a053"/>
+<approved hash="5,1,ecdbbcc97f73477d"/>
+<approved hash="5,1,ed70dfc085546c19"/>
+<approved hash="5,1,285621c0bc1f6e74"/>
+<approved hash="5,1,9cd1859eaf4d484b"/>
+<approved hash="5,1,2c6e21c0bc1f6a4c"/>
 </errors>
 </board>
 </drawing>
